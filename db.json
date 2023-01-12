@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 9,
+      "urunAdi": "Çanta",
+      "urunResmi": "https://m.media-amazon.com/images/I/51WhLWEfmcL._AC_SY780_.jpg",
+      "urunFiyat": "300 TL"
+    },
+    {
+      "id": 10,
+      "urunAdi": "Şapka",
+      "urunResmi": "https://cdn03.ciceksepeti.com/cicek/kc8245668-1/XL/ny-cap-yazlik-fileli-erkek-sapka-cp222-kc8245668-1-6611124728fa43cbbd1a6ebfe294f74a.jpg",
+      "urunFiyat": "300 TL"
+    },
+    {
+      "id": 11,
+      "urunAdi": "Elma",
+      "urunResmi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/1200px-Red_Apple.jpg",
+      "urunFiyat": "10 TL"
+    }
+  ],
+  "baskets": []
+}

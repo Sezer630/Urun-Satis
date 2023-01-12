@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "urunAdi": "Çanta",
+      "urunResmi": "https://m.media-amazon.com/images/I/51WhLWEfmcL._AC_SY780_.jpg",
+      "urunFiyat": "200 TL",
+      "id": 1
+    },
+    {
+      "urunAdi": "Şapka",
+      "urunResmi": "https://cdn03.ciceksepeti.com/cicek/kc8245668-1/XL/ny-cap-yazlik-fileli-erkek-sapka-cp222-kc8245668-1-6611124728fa43cbbd1a6ebfe294f74a.jpg",
+      "urunFiyat": "300 TL",
+      "id": 2
+    },
+    {
+      "urunAdi": "Şapka",
+      "urunResmi": "https://cdn03.ciceksepeti.com/cicek/kc8245668-1/XL/ny-cap-yazlik-fileli-erkek-sapka-cp222-kc8245668-1-6611124728fa43cbbd1a6ebfe294f74a.jpg",
+      "urunFiyat": "400 TL",
+      "id": 3
+    }
+  ],
+  "baskets": []
+}
